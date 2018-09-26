@@ -1,0 +1,9 @@
+C:\Users\etec\Desktop\Correcaoprova\Correcaoprova\bin\Debug\Correcaoprova.exe.config
+C:\Users\etec\Desktop\Correcaoprova\Correcaoprova\obj\Debug\Correcaoprova.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\Correcaoprova\Correcaoprova\bin\Debug\Correcaoprova.exe
+C:\Users\etec\Desktop\Correcaoprova\Correcaoprova\bin\Debug\Correcaoprova.pdb
+C:\Users\etec\Desktop\Correcaoprova\Correcaoprova\obj\Debug\Correcaoprova.exe
+C:\Users\etec\Desktop\Correcaoprova\Correcaoprova\obj\Debug\Correcaoprova.pdb
+I:\Tecnicas_de_programacao\Correcaoprova\Correcaoprova\bin\Debug\Correcaoprova.exe.config
+I:\Tecnicas_de_programacao\Correcaoprova\Correcaoprova\obj\Debug\Correcaoprova.exe
+I:\Tecnicas_de_programacao\Correcaoprova\Correcaoprova\obj\Debug\Correcaoprova.pdb
