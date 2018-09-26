@@ -16,6 +16,8 @@ namespace Correcaoprova
                 int quantidade;
                 double valorProduto, valorTotal;
 
+                Console.WriteLine(* *********Exercicio 4 - Avaliação 1 ********);
+
                 Console.WriteLine("Digite o nome do produto");
                 nomeProduto = Console.ReadLine();
 
